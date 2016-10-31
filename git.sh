@@ -2,13 +2,8 @@ git init
 git add .
 git commit 
 
-git remote add test pi@rpi:~/sdl2apk
-git push -u test master
-
 git remote -v
-
-git pull (=git fetch test && git merge test/master)
-git push test/master
+git push -u origin master
 
 git remote rm test
 
