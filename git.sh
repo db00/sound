@@ -3,6 +3,8 @@ git add .
 git commit 
 
 git remote -v
+git remote rm origin
+git remote add origin pi@rpi:~/sound
 git push -u origin master
 
 
