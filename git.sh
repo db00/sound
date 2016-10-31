@@ -5,11 +5,13 @@ git commit
 git remote -v
 git push -u origin master
 
+
 git remote rm test
 
 ssh-keygen -t rsa -C "db0@qq.com"
 #cp ~/.ssh/id_rsa.pub to github(Settings/SSH Keys)
 ssh -T git@github.com
+ssh -T pi@rpi
 
 
 git config --global push.default simple
@@ -22,7 +24,7 @@ git remote add huaien https://github.com/db00/sound.git
 git push -u huaien master
 git remote -v
 
-create a new repository
+#create a new repository
 echo "# sound" >> README.md
 git init
 git add README.md
