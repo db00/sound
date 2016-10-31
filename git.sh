@@ -6,6 +6,7 @@ git remote -v
 git remote rm origin
 git remote add origin pi@rpi:~/sound
 git push -u origin master
+git pull huaien
 
 
 git remote rm test
