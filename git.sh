@@ -4,6 +4,7 @@ git commit
 
 git remote -v
 git remote rm origin
+git remote rm huaien
 git remote add origin pi@rpi:~/sound
 git push -u origin master
 git pull huaien
