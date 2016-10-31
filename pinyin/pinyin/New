@@ -1,0 +1,22 @@
+
+ffmpeg -i bin4.mp3 bin4.ogg ;mv bin4.ogg .. ; rm bin4.mp3
+ffmpeg -i cheng1.mp3 cheng1.ogg ;mv cheng1.ogg .. ; rm cheng1.mp3
+ffmpeg -i cuo4.mp3 cuo4.ogg ;mv cuo4.ogg .. ; rm cuo4.mp3
+ffmpeg -i duo1.mp3 duo1.ogg ;mv duo1.ogg .. ; rm duo1.mp3
+ffmpeg -i gao4.mp3 gao4.ogg ;mv gao4.ogg .. ; rm gao4.mp3
+ffmpeg -i hen2.mp3 hen2.ogg ;mv hen2.ogg .. ; rm hen2.mp3
+ffmpeg -i jie2.mp3 jie2.ogg ;mv jie2.ogg .. ; rm jie2.mp3
+ffmpeg -i kuan3.mp3 kuan3.ogg ;mv kuan3.ogg .. ; rm kuan3.mp3
+ffmpeg -i lin4.mp3 lin4.ogg ;mv lin4.ogg .. ; rm lin4.mp3
+ffmpeg -i meng2.mp3 meng2.ogg ;mv meng2.ogg .. ; rm meng2.mp3
+ffmpeg -i ning3.mp3 ning3.ogg ;mv ning3.ogg .. ; rm ning3.mp3
+ffmpeg -i pie4.mp3 pie4.ogg ;mv pie4.ogg .. ; rm pie4.mp3
+ffmpeg -i quan4.mp3 quan4.ogg ;mv quan4.ogg .. ; rm quan4.mp3
+ffmpeg -i shang4.mp3 shang4.ogg ;mv shang4.ogg .. ; rm shang4.mp3
+ffmpeg -i sui2.mp3 sui2.ogg ;mv sui2.ogg .. ; rm sui2.mp3
+ffmpeg -i tui3.mp3 tui3.ogg ;mv tui3.ogg .. ; rm tui3.mp3
+ffmpeg -i xie4.mp3 xie4.ogg ;mv xie4.ogg .. ; rm xie4.mp3
+ffmpeg -i yong1.mp3 yong1.ogg ;mv yong1.ogg .. ; rm yong1.mp3
+ffmpeg -i zhan2.mp3 zhan2.ogg ;mv zhan2.ogg .. ; rm zhan2.mp3
+ffmpeg -i zhun1.mp3 zhun1.ogg ;mv zhun1.ogg .. ; rm zhun1.mp3
+
